@@ -1,2 +1,3 @@
-# web-app-issues
-Issue tracker for the Blrrt web app.
+# Blrrt Issue Tracker
+
+This is the public issue tracker for Blrrt.
